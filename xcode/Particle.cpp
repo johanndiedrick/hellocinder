@@ -24,9 +24,8 @@ Particle::Particle( Vec2f loc){
 }
 
 void Particle::update(){
-    
+     
     mLoc += mDir * mVel;
-    
 }
 
 void Particle::draw(){

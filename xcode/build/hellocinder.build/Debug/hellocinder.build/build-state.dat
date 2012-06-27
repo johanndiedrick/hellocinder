@@ -5463,9 +5463,9 @@ t1340698181
 s114357
 
 N/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/../src/hellocinderApp.cpp
-c000000004FEAAF510000000000000485
-t1340780369
-s1157
+c000000004FEAB283000000000000048A
+t1340781187
+s1162
 
 N/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/Particle.cpp
 c000000004FEAAF0800000000000002A8
@@ -5488,7 +5488,7 @@ t1340779569
 s516
 
 N/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app
-t1340780346
+t1340781111
 s102
 
 N/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app/Contents/Info.plist
@@ -5496,8 +5496,8 @@ t1340713494
 s1233
 
 N/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app/Contents/MacOS/hellocinder
-t1340780346
-s10599988
+t1340781110
+s10598800
 
 N/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app/Contents/PkgInfo
 t1340713494
@@ -5525,8 +5525,8 @@ t1340779362
 s481
 
 N/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/Objects-normal/i386/hellocinderApp.o
-t1340780343
-s315348
+t1340781107
+s311108
 
 N/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/hellocinder_Prefix.pch
 c000000004FE9A8F30000000000000093
@@ -5559,7 +5559,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb72a59d1e69ab541^5f615dd1e69ab541^---0#1#0#--18"Check dependencies36"B3BE4F95-28C8-44C4-859B-3C8230772A07-
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7898ba03ea9ab541^1407bc03ea9ab541^---0#1#0#--18"Check dependencies36"E5D26122-9671-408D-AF5E-5F5561AEB68F-
 
 CCompileC build/hellocinder.build/Debug/hellocinder.build/Objects-normal/i386/Particle.o /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/Particle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 s362473096.695822
@@ -5588,8 +5588,8 @@ xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/ParticleController.cpp603a5930e49ab541^c425bf39e49ab541^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/ParticleController.cpp0000000000000000^2564"CompileC build/hellocinder.build/Debug/hellocinder.build/Objects-normal/i386/ParticleController.o ParticleController.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion -iquote /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/hellocinder-generated-files.hmap -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/hellocinder-own-target-headers.hmap -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/hellocinder-all-target-headers.hmap -iquote /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/hellocinder-project-headers.hmap -iquote../../../include -iquote../include -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/include -I../../../boost -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/DerivedSources/i386 -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/DerivedSources -F/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/hellocinder_Prefix-dzskfyyqqygiawfjvvrvuydndrie/hellocinder_Prefix.pch -MMD -MT dependencies -MF /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/Objects-normal/i386/ParticleController.d -c /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/ParticleController.cpp -o /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/Objects-normal/i386/ParticleController.o36"7435068D-D170-43C6-B7BE-F829F18C434B-
 
 CCompileC build/hellocinder.build/Debug/hellocinder.build/Objects-normal/i386/hellocinderApp.o /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/../src/hellocinderApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s362473169.448216
-e362473172.765300
+s362473987.794497
+e362473991.506211
 r1
 xCompileC
 xbuild/hellocinder.build/Debug/hellocinder.build/Objects-normal/i386/hellocinderApp.o
@@ -5598,7 +5598,7 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/../src/hellocinderApp.cppa5db72d1e69ab541^3eeac3d4e69ab541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/../src/hellocinderApp.cpp0000000000000000^2558"CompileC build/hellocinder.build/Debug/hellocinder.build/Objects-normal/i386/hellocinderApp.o ../src/hellocinderApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion -iquote /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/hellocinder-generated-files.hmap -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/hellocinder-own-target-headers.hmap -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/hellocinder-all-target-headers.hmap -iquote /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/hellocinder-project-headers.hmap -iquote../../../include -iquote../include -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/include -I../../../boost -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/DerivedSources/i386 -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/DerivedSources -F/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/hellocinder_Prefix-dzskfyyqqygiawfjvvrvuydndrie/hellocinder_Prefix.pch -MMD -MT dependencies -MF /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/Objects-normal/i386/hellocinderApp.d -c /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/../src/hellocinderApp.cpp -o /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/Objects-normal/i386/hellocinderApp.o36"C4555F1E-DC53-40C6-8EF2-0E7B219F0744-
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/../src/hellocinderApp.cppa182cb03ea9ab541^85968107ea9ab541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/../src/hellocinderApp.cpp0000000000000000^2558"CompileC build/hellocinder.build/Debug/hellocinder.build/Objects-normal/i386/hellocinderApp.o ../src/hellocinderApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion -iquote /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/hellocinder-generated-files.hmap -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/hellocinder-own-target-headers.hmap -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/hellocinder-all-target-headers.hmap -iquote /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/hellocinder-project-headers.hmap -iquote../../../include -iquote../include -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/include -I../../../boost -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/DerivedSources/i386 -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/DerivedSources -F/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug -include /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/hellocinder_Prefix-dzskfyyqqygiawfjvvrvuydndrie/hellocinder_Prefix.pch -MMD -MT dependencies -MF /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/Objects-normal/i386/hellocinderApp.d -c /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/../src/hellocinderApp.cpp -o /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/Objects-normal/i386/hellocinderApp.o36"82EC652B-B568-45E6-9B67-9363F9604143-
 
 CCpResource ../resources/CinderApp.icns build/Debug/hellocinder.app/Contents/Resources/CinderApp.icns
 s362406294.241723
@@ -5619,14 +5619,14 @@ xbuild/Debug/hellocinder.app/Contents/Resources/image.jpg
 lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug/hellocinder.app/Contents/Resources/image.jpge8879909ea99b541^4e43a009ea99b541^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app/Contents/Resources/image.jpg00f438f1deffdf42^482"CpResource image.jpg build/Debug/hellocinder.app/Contents/Resources/image.jpg    cd /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/image.jpg /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app/Contents/Resources36"587BA754-057F-4626-99CE-93F4E349810A-
 
 CLd /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app/Contents/MacOS/hellocinder normal i386
-s362473172.773204
-e362473174.871853
+s362473991.513822
+e362474000.544089
 r1
 xLd
 x/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app/Contents/MacOS/hellocinder
 xnormal
 xi386
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Link /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app/Contents/MacOS/hellocinder4609c6d4e69ab541^df32dfd6e69ab541^---0#0#0#--1023"Ld build/Debug/hellocinder.app/Contents/MacOS/hellocinder normal i386    cd /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/clang++ -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug -F/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug -filelist /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/Objects-normal/i386/hellocinder.LinkFileList -mmacosx-version-min=10.5 ../../../lib/libcinder_d.a -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app/Contents/MacOS/hellocinder36"9C6919E5-1761-4EE3-A4E6-281264D7E399-
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Link /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app/Contents/MacOS/hellocinderc6a48307ea9ab541^564a8b10ea9ab541^---0#0#0#--1023"Ld build/Debug/hellocinder.app/Contents/MacOS/hellocinder normal i386    cd /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/clang++ -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug -F/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug -filelist /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/Objects-normal/i386/hellocinder.LinkFileList -mmacosx-version-min=10.5 ../../../lib/libcinder_d.a -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app/Contents/MacOS/hellocinder36"3FDB8882-C82D-4551-9227-CAD2BB044672-
 
 CProcessInfoPlistFile /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app/Contents/Info.plist Info.plist
 s362406294.103566
@@ -5654,10 +5654,10 @@ xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile hellocinder_Prefix.pch26515f96e199b541^6269b09de199b541^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/hellocinder_Prefix.pch0000000000000000^2487"ProcessPCH++ /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/hellocinder_Prefix-dzskfyyqqygiawfjvvrvuydndrie/hellocinder_Prefix.pch.pth hellocinder_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion -iquote /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/hellocinder-generated-files.hmap -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/hellocinder-own-target-headers.hmap -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/hellocinder-all-target-headers.hmap -iquote /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/hellocinder-project-headers.hmap -iquote../../../include -iquote../include -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/include -I../../../boost -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/DerivedSources/i386 -I/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/hellocinder.build/Debug/hellocinder.build/DerivedSources -F/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug -c /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/hellocinder_Prefix.pch -o /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/hellocinder_Prefix-dzskfyyqqygiawfjvvrvuydndrie/hellocinder_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/lm/5bkc7gl14t37_2bx2q2b4qc40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/hellocinder_Prefix-dzskfyyqqygiawfjvvrvuydndrie/hellocinder_Prefix.pch.d36"90D44457-0AFE-4B8C-8AC5-787E427974FC-
 
 CTouch /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app
-s362473174.880927
-e362473174.886970
+s362474000.553286
+e362474000.851609
 r1
 xTouch
 x/Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Touch /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app7d94e1d6e69ab541^b611e3d6e69ab541^---0#0#0#--243"Touch build/Debug/hellocinder.app    cd /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode    /usr/bin/touch -c /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app36"9F7B8212-2992-49A1-8606-D5100B7B1C9F-
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Touch /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.appe1b78d10ea9ab541^ea25da10ea9ab541^---0#0#0#--243"Touch build/Debug/hellocinder.app    cd /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode    /usr/bin/touch -c /Users/johanndiedrick/Documents/Cinder/cinder_master/code/hellocinder/xcode/build/Debug/hellocinder.app36"77348A1F-DF5C-49FD-AF35-67E329074C4F-
 

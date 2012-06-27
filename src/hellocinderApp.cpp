@@ -27,7 +27,7 @@ void hellocinderApp::setup()
     
    // myImage = gl::Texture(loadImage(loadResource("image.jpg")));
     
-    mParticleController.addParticles(500);
+    mParticleController.addParticles(50);
 }
 
 void hellocinderApp::mouseDown( MouseEvent event )
