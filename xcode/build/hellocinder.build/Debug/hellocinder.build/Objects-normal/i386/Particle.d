@@ -105,8 +105,43 @@ dependencies: \
   ../../../boost/boost/type_traits/detail/ice_not.hpp \
   ../../../boost/boost/math/common_factor_rt.hpp \
   ../../../boost/boost/math_fwd.hpp ../../../boost/boost/limits.hpp \
-  ../../../boost/boost/static_assert.hpp ../../../include/cinder/Rand.h \
-  ../../../boost/boost/random.hpp \
+  ../../../boost/boost/static_assert.hpp ../../../include/cinder/Color.h \
+  ../../../include/cinder/ChanTraits.h \
+  ../../../boost/boost/preprocessor/seq.hpp \
+  ../../../boost/boost/preprocessor/seq/cat.hpp \
+  ../../../boost/boost/preprocessor/arithmetic/dec.hpp \
+  ../../../boost/boost/preprocessor/seq/fold_left.hpp \
+  ../../../boost/boost/preprocessor/seq/seq.hpp \
+  ../../../boost/boost/preprocessor/seq/elem.hpp \
+  ../../../boost/boost/preprocessor/seq/size.hpp \
+  ../../../boost/boost/preprocessor/seq/enum.hpp \
+  ../../../boost/boost/preprocessor/seq/filter.hpp \
+  ../../../boost/boost/preprocessor/control/expr_if.hpp \
+  ../../../boost/boost/preprocessor/control/expr_iif.hpp \
+  ../../../boost/boost/preprocessor/tuple/elem.hpp \
+  ../../../boost/boost/preprocessor/tuple/rem.hpp \
+  ../../../boost/boost/preprocessor/seq/first_n.hpp \
+  ../../../boost/boost/preprocessor/seq/detail/split.hpp \
+  ../../../boost/boost/preprocessor/seq/fold_right.hpp \
+  ../../../boost/boost/preprocessor/seq/reverse.hpp \
+  ../../../boost/boost/preprocessor/seq/for_each.hpp \
+  ../../../boost/boost/preprocessor/repetition/for.hpp \
+  ../../../boost/boost/preprocessor/repetition/detail/for.hpp \
+  ../../../boost/boost/preprocessor/seq/for_each_i.hpp \
+  ../../../boost/boost/preprocessor/seq/for_each_product.hpp \
+  ../../../boost/boost/preprocessor/seq/insert.hpp \
+  ../../../boost/boost/preprocessor/seq/rest_n.hpp \
+  ../../../boost/boost/preprocessor/seq/pop_back.hpp \
+  ../../../boost/boost/preprocessor/seq/pop_front.hpp \
+  ../../../boost/boost/preprocessor/seq/push_back.hpp \
+  ../../../boost/boost/preprocessor/seq/push_front.hpp \
+  ../../../boost/boost/preprocessor/seq/remove.hpp \
+  ../../../boost/boost/preprocessor/seq/replace.hpp \
+  ../../../boost/boost/preprocessor/seq/subseq.hpp \
+  ../../../boost/boost/preprocessor/seq/to_array.hpp \
+  ../../../boost/boost/preprocessor/seq/to_tuple.hpp \
+  ../../../boost/boost/preprocessor/seq/transform.hpp \
+  ../../../include/cinder/Rand.h ../../../boost/boost/random.hpp \
   ../../../boost/boost/random/additive_combine.hpp \
   ../../../boost/boost/random/detail/config.hpp \
   ../../../boost/boost/random/detail/operators.hpp \
@@ -135,11 +170,9 @@ dependencies: \
   ../../../boost/boost/preprocessor/facilities/identity.hpp \
   ../../../boost/boost/preprocessor/empty.hpp \
   ../../../boost/boost/preprocessor/arithmetic/add.hpp \
-  ../../../boost/boost/preprocessor/arithmetic/dec.hpp \
   ../../../boost/boost/preprocessor/control/while.hpp \
   ../../../boost/boost/preprocessor/list/fold_left.hpp \
   ../../../boost/boost/preprocessor/list/detail/fold_left.hpp \
-  ../../../boost/boost/preprocessor/control/expr_iif.hpp \
   ../../../boost/boost/preprocessor/list/adt.hpp \
   ../../../boost/boost/preprocessor/detail/is_binary.hpp \
   ../../../boost/boost/preprocessor/detail/check.hpp \
@@ -148,7 +181,6 @@ dependencies: \
   ../../../boost/boost/preprocessor/list/detail/fold_right.hpp \
   ../../../boost/boost/preprocessor/list/reverse.hpp \
   ../../../boost/boost/preprocessor/control/detail/while.hpp \
-  ../../../boost/boost/preprocessor/tuple/elem.hpp \
   ../../../boost/boost/preprocessor/arithmetic/sub.hpp \
   ../../../boost/boost/random/detail/const_mod.hpp \
   ../../../boost/boost/integer_traits.hpp \
@@ -433,9 +465,6 @@ dependencies: \
   ../../../boost/boost/type_traits/is_scalar.hpp \
   ../../../boost/boost/type_traits/type_with_alignment.hpp \
   ../../../boost/boost/preprocessor/list/for_each_i.hpp \
-  ../../../boost/boost/preprocessor/repetition/for.hpp \
-  ../../../boost/boost/preprocessor/repetition/detail/for.hpp \
-  ../../../boost/boost/preprocessor/tuple/rem.hpp \
   ../../../boost/boost/preprocessor/tuple/to_list.hpp \
   ../../../boost/boost/preprocessor/list/transform.hpp \
   ../../../boost/boost/preprocessor/list/append.hpp \
@@ -738,12 +767,6 @@ dependencies: \
   ../../../boost/boost/fusion/adapted/struct/adapt_struct.hpp \
   ../../../boost/boost/fusion/adapted/struct/detail/extension.hpp \
   ../../../boost/boost/fusion/adapted/struct/detail/adapt_base.hpp \
-  ../../../boost/boost/preprocessor/seq/size.hpp \
-  ../../../boost/boost/preprocessor/seq/for_each.hpp \
-  ../../../boost/boost/preprocessor/seq/seq.hpp \
-  ../../../boost/boost/preprocessor/seq/elem.hpp \
-  ../../../boost/boost/preprocessor/seq/for_each_i.hpp \
-  ../../../boost/boost/preprocessor/seq/enum.hpp \
   ../../../boost/boost/fusion/adapted/struct/detail/at_impl.hpp \
   ../../../boost/boost/fusion/adapted/struct/detail/is_view_impl.hpp \
   ../../../boost/boost/fusion/adapted/struct/detail/is_sequence_impl.hpp \
@@ -855,35 +878,12 @@ dependencies: \
   ../../../include/cinder/Matrix22.h \
   ../../../include/cinder/MatrixAffine2.h \
   ../../../include/cinder/Matrix33.h ../../../include/cinder/Matrix44.h \
-  ../../../include/cinder/MatrixAlgo.h ../../../include/cinder/Color.h \
-  ../../../include/cinder/ChanTraits.h \
-  ../../../boost/boost/preprocessor/seq.hpp \
-  ../../../boost/boost/preprocessor/seq/cat.hpp \
-  ../../../boost/boost/preprocessor/seq/fold_left.hpp \
-  ../../../boost/boost/preprocessor/seq/filter.hpp \
-  ../../../boost/boost/preprocessor/control/expr_if.hpp \
-  ../../../boost/boost/preprocessor/seq/first_n.hpp \
-  ../../../boost/boost/preprocessor/seq/detail/split.hpp \
-  ../../../boost/boost/preprocessor/seq/fold_right.hpp \
-  ../../../boost/boost/preprocessor/seq/reverse.hpp \
-  ../../../boost/boost/preprocessor/seq/for_each_product.hpp \
-  ../../../boost/boost/preprocessor/seq/insert.hpp \
-  ../../../boost/boost/preprocessor/seq/rest_n.hpp \
-  ../../../boost/boost/preprocessor/seq/pop_back.hpp \
-  ../../../boost/boost/preprocessor/seq/pop_front.hpp \
-  ../../../boost/boost/preprocessor/seq/push_back.hpp \
-  ../../../boost/boost/preprocessor/seq/push_front.hpp \
-  ../../../boost/boost/preprocessor/seq/remove.hpp \
-  ../../../boost/boost/preprocessor/seq/replace.hpp \
-  ../../../boost/boost/preprocessor/seq/subseq.hpp \
-  ../../../boost/boost/preprocessor/seq/to_array.hpp \
-  ../../../boost/boost/preprocessor/seq/to_tuple.hpp \
-  ../../../boost/boost/preprocessor/seq/transform.hpp \
-  ../../../include/cinder/Rect.h ../../../include/cinder/Font.h \
-  ../../../include/cinder/Shape2d.h ../../../include/cinder/Path2d.h \
-  ../../../include/cinder/BSpline.h ../../../include/cinder/DataSource.h \
-  ../../../include/cinder/Url.h ../../../include/cinder/Stream.h \
-  ../../../include/cinder/Buffer.h ../../../include/cinder/Filesystem.h \
+  ../../../include/cinder/MatrixAlgo.h ../../../include/cinder/Rect.h \
+  ../../../include/cinder/Font.h ../../../include/cinder/Shape2d.h \
+  ../../../include/cinder/Path2d.h ../../../include/cinder/BSpline.h \
+  ../../../include/cinder/DataSource.h ../../../include/cinder/Url.h \
+  ../../../include/cinder/Stream.h ../../../include/cinder/Buffer.h \
+  ../../../include/cinder/Filesystem.h \
   ../../../boost/boost/filesystem.hpp \
   ../../../boost/boost/filesystem/v3/config.hpp \
   ../../../boost/boost/system/api_config.hpp \

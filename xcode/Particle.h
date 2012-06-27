@@ -12,6 +12,7 @@
 #pragma once
 #include "cinder/Channel.h"
 #include "cinder/Vector.h"
+#include "cinder/Color.h"
 
 #include <vector>
 
@@ -20,6 +21,7 @@ public:
     Particle();
     Particle( ci::Vec2f );
     void update();
+    void update(const ci::Channel32f &channel);
     void draw();
     
     ci::Vec2f mLoc;
@@ -27,6 +29,8 @@ public:
     float mVel;
     
     float mRadius;
+    
+    ci::Color mColor;
 };
 
 

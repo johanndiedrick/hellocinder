@@ -16,13 +16,24 @@
 class ParticleController{
 public:
     ParticleController();
+    
+    ParticleController(int res);
+    
     void update();
+    
+    void update(const ci::Channel32f &channel);
+
     void draw();
     
     void addParticles( int amt );
     void removeParticles( int amt );
     
+    void addParticle( int xi, int yi);
+    
     std::list<Particle> mParticles;
+    
+    int mYRes, mXRes;
+    
 };
 
 #endif
